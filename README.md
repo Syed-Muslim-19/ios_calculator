@@ -8,5 +8,4 @@ The code in this repository is licensed under the [MIT License](https://github.c
 ## To Check my Websites 
 1. Enter this URL on your browser : 
         https://syed-muslim-19.github.io/ios_calculator/
-2. Then, Write the Folder Name you use to check.
-3. Lastly, write the (file.html)name.
+2. Then, write the (file.html)name.
