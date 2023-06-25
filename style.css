@@ -1,0 +1,85 @@
+body{
+    background-color: black !important;
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    color: white;
+    font-size: 240%;
+}
+button{
+    background-color: rgb(103, 99, 99);
+    border: none;
+}
+.grey{
+    background-color: rgb(221, 219, 219);
+}
+.yellow{ 
+    background-color: rgb(255, 177, 31);
+}
+span{
+    float: right;
+    margin-right: 8%;
+}
+h1{
+    font-size: 550%;
+    color: white;
+}
+.row{
+    clear: both;
+}
+.AC,.AS,.mod{
+    color: black;
+}
+button{
+    border-radius: 60%;
+    height: 85px;
+    width: 120%;
+}
+.btn0{
+    border-radius: 30px;
+    text-align: left;
+    width:100%;
+}
+.zero{
+    margin-left: 18%;
+}
+span{
+    margin-right: 0px;
+}
+@media(min-width:768px){
+    .container{
+        margin-top: 20px;
+        border: 5px solid white;
+        padding: 50px 30px 50px 30px;
+        border-radius: 70px;
+    }
+    button{
+        border-radius: 60%;
+        height: 120px;
+        width: 100%;
+    }
+    span{
+        margin-top: 10px;
+    }
+}
+@media(max-width:767px){
+    body{
+        width:100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .container{
+        margin-top: 20px;
+    }
+    .zero{
+        margin-left: 22%;
+    }
+    h1{
+        font-size: 450%;
+    }
+}
+.glow {
+    box-shadow: 0 0 10px #fff;
+  }
