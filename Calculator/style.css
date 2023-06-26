@@ -76,6 +76,9 @@ span{
     .zero{
         margin-left: 22%;
     }
+    .row{
+        margin-right: 0px;
+    }
     h1{
         font-size: 450%;
     }
