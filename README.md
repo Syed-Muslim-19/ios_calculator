@@ -13,3 +13,4 @@ The code in this repository is licensed under the [MIT License](https://github.c
    <br/>
 ## Click to visit my site
    https://syed-muslim-19.github.io/ios_calculator/Calculator/calculator.html
+  * Zoom-out the website incase if the site is too much zoomed-in
