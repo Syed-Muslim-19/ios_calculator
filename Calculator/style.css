@@ -66,7 +66,7 @@ span{
 }
 @media(max-width:767px){
     body{
-        width:100%;
+        width:400px;
         margin-left: auto;
         margin-right: auto;
     }
